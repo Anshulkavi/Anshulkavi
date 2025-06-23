@@ -46,12 +46,6 @@ Hello from the Developer of CareerCraft
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshulkavi&theme=radical" alt="GitHub Streak Stats" />
-
-</div>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshulkavi&theme=radical" alt="Contribution Graph" />
 
 <div align="center">
