@@ -33,12 +33,12 @@ Hello from the Developer of CareerCraft
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anshulkavi&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Anshulkavi&show_icons=true&theme=radical&hide_border=true&card_width=400" alt="GitHub Stats" />
 
 </td>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulkavi&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulkavi&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Most Used Languages" />
 
 </td>
 </tr>
@@ -48,11 +48,11 @@ Hello from the Developer of CareerCraft
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshulkavi&theme=tokyonight" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshulkavi&theme=radical" alt="GitHub Streak Stats" />
 
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshulkavi&theme=tokyonight" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshulkavi&theme=radical" alt="Contribution Graph" />
 
 <div align="center">
 
