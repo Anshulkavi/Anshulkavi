@@ -69,10 +69,21 @@ Hi ! Everyone , Meet the King in the North
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Anshulkavi&color=brightgreen" alt="Profile Views" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anshulkavi&theme=radical" alt="GitHub Profile Summary" />
 
 </div>
 
+
+### ✍️ Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Anshulkavi&color=brightgreen" alt="Profile Views" />
+
+</div>
 
 ## **📱 Socials**
 
